@@ -46,4 +46,11 @@ We welcome contributions! If you’d like to contribute, please follow these ste
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
+## 🙏 **Acknowledgments**
 
+- Special thanks to the open-source community and the contributors for the tools and libraries used in this project.
+- This project uses libraries like `tensorflow`, `keras`, `matplotlib`, and `pandas`.
+
+---
+
+### Dive into concrete crack detection and help ensure the safety of infrastructure! 🏗️📊
